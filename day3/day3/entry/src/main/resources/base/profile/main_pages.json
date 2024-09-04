@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Indextab",
+    "pages/settingPage",
+    "pages/helpPage",
+    "pages/aboutPage",
+    "pages/tablePage",
+    "pages/noticePage",
+    "pages/testScrollerPage",
+    "pages/test/testPage1"
+  ]
+}
